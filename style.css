@@ -1,0 +1,115 @@
+.text-bold
+{
+	font-weight: bold;
+}
+
+.text-indent-normal
+{
+	text-indent: 1em;
+}
+
+.text-normal
+{
+	font-style: normal;	
+}
+
+.text-italic
+{
+	font-style: italic;
+}
+
+.text-right
+{
+	text-align: right;
+}
+
+.text-center
+{
+	text-align: center;
+}
+
+.text-left
+{
+	text-align: left;
+}
+
+.display-none
+{
+	display: none;
+}
+
+.display-show
+{
+	display: block;
+}
+
+.border-none
+{
+	border: none;
+}
+
+.border-bottom-normal
+{
+	border-bottom: 1px solid black;
+}
+
+.border-bottom-hard
+{
+	border-bottom: 3px solid black;
+}
+
+.border-bottom-none
+{
+	border-bottom: 1px solid transparent;
+}
+
+.border-top-none
+{
+	border-top: 1px solid transparent;
+}
+
+.line-height-normal
+{
+	line-height: 1.8em;
+}
+
+.line-height-hard
+{
+	line-height: 2.8em;
+}
+
+.text-size-normal
+{
+	font-size: small;
+}
+
+.text-size-hard
+{
+	font-size: large;
+}
+
+.enable-position-relative
+{
+	position: relative;
+}
+
+.position-left-small
+{
+	left: 10%;
+}
+
+body
+{
+	font-family: arial;
+}
+
+
+#text-bold
+{
+	font-weight: bold;
+}
+
+#text-italic
+{
+	font-style: italic;
+}
